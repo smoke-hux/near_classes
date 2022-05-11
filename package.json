@@ -1,0 +1,23 @@
+{
+  "name": "near_classes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smoke-hux/near_classes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smoke-hux/near_classes/issues"
+  },
+  "homepage": "https://github.com/smoke-hux/near_classes#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.4"
+  }
+}
